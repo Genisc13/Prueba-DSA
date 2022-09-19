@@ -7,3 +7,7 @@ git commit
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 git push
+
+git clone <> git init
+git log <> git status
+git rm <> git add
