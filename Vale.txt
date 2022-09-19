@@ -1,0 +1,9 @@
+Vaya
+git init
+git status
+git add <Archivo>
+git rm (Para borrar)
+git commit
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git push
